@@ -1,2 +1,7 @@
-# Db
-Database new
+{
+  "users": [
+    {
+      "password": "sajalah"
+    }
+  ]
+}
